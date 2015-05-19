@@ -1,2 +1,6 @@
 # brain
-Brain will be a cloud-based and feature-rich online platform that integrates and automates all processes of an e-commerce for all of your selling venues – putting all the information and tools needed in one place. The best way to automate processes, optimise workflow and maximise profits
+Brain will be a cloud-based and feature-rich online platform that integrates and automates all processes of an e-commerce for all of your selling venues – putting all the information and tools needed in one place. The best way to automate processes, optimise workflow and maximise profits.
+This platform will be a service for these processes: Integration with different sales channels using the respective API, integration with various suppliers via Web Service to obtain a comprehensive and optimized catalog. Also, this catalog has processing algorithms re-pricing to be competitive in selling online and identify niche markets, allowing a categorization of the same for optimal segmentation catalog. Also, the Application BRAIN allow each user to have multiple catalogs for different sales channels.
+On the other hand, manage the process with carriers using intelligent algorithms to optimize costs in the order sent to the client for this must be connected to the APIs.
+Finally, facilitate decision-making at the strategic level of the company. For this the Brain manages a panel allow for statistical data on sales, ROI and get an overview of the traffic-driving features available to our user.
+
